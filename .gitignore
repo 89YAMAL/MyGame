@@ -5,6 +5,7 @@ HELP.md
 dist
 doc
 
+
 # Logs
 logs
 *.log
@@ -85,5 +86,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-.dist/
